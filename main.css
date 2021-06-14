@@ -187,7 +187,7 @@ h1 {
     width: 90vw;
   }
 }
-.infobox.year-veteran .title {
+.infobox.aselsan .title {
   position: sticky;
   left: 0;
 }
@@ -349,63 +349,63 @@ h1 {
   min-width: 140px;
 }
 .lifetime .square {
-  width: 20px;
-  height: 20px;
+  width: 19.4px;
+  height: 19.4px;
   background-color: blue;
 }
-.healthcare .square {
-  width: 4px;
-  height: 4px;
+.aclik .square {
+  width: 2px;
+  height: 2px;
   background-color: blue;
 }
-.amazon-year .square {
-  width: 5.2px;
-  height: 5.2px;
+.vekil-year .square {
+  width: 5.91px;
+  height: 5.91px;
   background-color: blue;
 }
-.year-veteran .square {
+.aselsan .square {
   height: 400px;
-  width: 1186px;
+  width: 10462px;
   margin-top: 5px;
   background-color: #8BC34A;
 }
-.year-veteran .title {
+.aselsan .title {
   width: auto;
   padding: 10px;
   max-width: 380px;
   left: 0;
 }
-.year-veteran .square {
+.aselsan .square {
   position: static;
 }
 @media (max-width: 450px) {
- .year-veteran .title {
+ .aselsan .title {
    max-width: 210px;
  }
- .year-veteran .square {
+ .aselsan .square {
    border-bottom: 4px dashed #75a23e;
  }
 }
-.year-chemo {
+.koc {
   width: auto;
 }
-.year-chemo .square {
+.koc .square {
   height: 400px;
-  width: 22500px;
-  background-color: #03A9F4;
-  border: 5px dashed #0078af;
+  width: 14639px;
+  background-color: #ffffff;
+  border: 10px dashed #FF0000;
   box-sizing: border-box;
 }
-.year-chemo .square .title {
+.koc .square .title {
   padding: 10px;
   position: sticky;
   left: 1px;
   display: inline-block;
 }
-.year-chemo .key {
+.koc .key {
   top: 310px;
 }
-.year-chemo .key > span {
+.koc .key > span {
   background-color: #03A9F4;
 }
 .celebrities {
@@ -428,19 +428,14 @@ h1 {
   background-color: #71889e;
 }
 .doctor .square {
-  width: 81.8px;
-  height: 81.8px;
+  width: 21.14px;
+  height: 21.14px;
   background-color: #0661b9;
 }
-.lawyer .square {
-  width: 63.2px;
-  height: 63.2px;
+.cumhur .square {
+  width: 34px;
+  height: 34px;
   background-color: #00478a;
-}
-.hedgefund .square {
-  width: 289.8px;
-  height: 289.8px;
-  background-color: #9daebf;
 }
 .line-chart .chart-outer {
   width: 720px;
